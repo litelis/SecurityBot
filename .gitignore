@@ -1,0 +1,39 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Base de datos
+bot.db
+*.db
+
+# Configuración sensible
+config.json
+
+# Logs
+*.log
+logs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Otros
+.env
+secrets.json
